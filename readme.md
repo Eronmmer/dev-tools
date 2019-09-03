@@ -6,6 +6,8 @@
 
 - [Generate pretty looking waves in SVG format](https://getwaves.io)
 
+- [Animate on Scroll tutorial by Brad Traversy](https://www.youtube.com/watch?v=ptfUwPJbGlQ)
+
 ## JavaScript
 
 - [Frontend Masters](https://frontendmasters.com)
