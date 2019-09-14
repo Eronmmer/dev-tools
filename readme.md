@@ -1,30 +1,8 @@
-# A List of Developer Tools
-
-## CSS
-
-- [Frontend Masters](https://frontendmasters.com)
+# A List awesome tools for Frontend Developers
 
 - [Generate pretty looking waves in SVG format](https://getwaves.io)
 
-- [Animate on Scroll tutorial by Brad Traversy](https://www.youtube.com/watch?v=ptfUwPJbGlQ)
-
-## JavaScript
-
-- [Frontend Masters](https://frontendmasters.com)
-
-## Node.js
-
-- [Frontend Masters](https://frontendmasters.com)
-
-
-## React
-
-- [Frontend Masters](https://frontendmasters.com)
-
-
-## Miscellaneous
-
-- [Job board for remote jobs](https://remotify.me)
+- [A tool for making CSS clip paths](http://bennettfeely.com/clippy/)
 
 - [Make a website look and act like a terminal](https://github.com/tautvilas/termpage/)
 
