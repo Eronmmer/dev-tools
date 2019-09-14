@@ -1,4 +1,4 @@
-# A List awesome tools for Frontend Developers
+# A List of awesome tools for Frontend Developers
 
 
 ## HTML
