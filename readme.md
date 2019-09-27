@@ -74,3 +74,5 @@
 - [Google Fonts](https://fonts.google.com)
 
 - [Find design inspiration on Dribbble](https://dribbble.com)
+
+- [Find the right git commands without digging through the web](https://gitexplorer.com)
